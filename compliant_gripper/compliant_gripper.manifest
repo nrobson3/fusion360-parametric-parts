@@ -1,0 +1,10 @@
+{
+    "autodeskProduct": "Fusion360",
+    "type": "script",
+    "author": "Navy Robson",
+    "description": {
+        "": "Single-piece compliant parallel-jaw gripper with flexures sized from the strain limit."
+    },
+    "supportedOS": "windows|mac",
+    "editEnabled": true
+}

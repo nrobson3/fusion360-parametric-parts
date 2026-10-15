@@ -1,0 +1,10 @@
+{
+    "autodeskProduct": "Fusion360",
+    "type": "script",
+    "author": "Navy Robson",
+    "description": {
+        "": "Two-part injection-moulded housing with cantilever snap fits, laid out for a straight-pull tool."
+    },
+    "supportedOS": "windows|mac",
+    "editEnabled": true
+}

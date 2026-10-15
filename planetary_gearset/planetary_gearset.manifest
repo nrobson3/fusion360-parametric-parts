@@ -1,0 +1,10 @@
+{
+    "autodeskProduct": "Fusion360",
+    "type": "script",
+    "author": "Navy Robson",
+    "description": {
+        "": "Helical planetary gear set from tooth counts, with assembly-condition, undercut and phasing checks."
+    },
+    "supportedOS": "windows|mac",
+    "editEnabled": true
+}
