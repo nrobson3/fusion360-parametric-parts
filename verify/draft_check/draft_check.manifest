@@ -1,0 +1,10 @@
+{
+    "autodeskProduct": "Fusion360",
+    "type": "script",
+    "author": "Navy Robson",
+    "description": {
+        "": "Per-face draft check against a pull direction, from B-rep normals."
+    },
+    "supportedOS": "windows|mac",
+    "editEnabled": true
+}

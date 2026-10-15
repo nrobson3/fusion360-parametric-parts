@@ -1,0 +1,10 @@
+{
+    "autodeskProduct": "Fusion360",
+    "type": "script",
+    "author": "Navy Robson",
+    "description": {
+        "": "Exports STEP, inspects the file, re-imports it and compares bodies, volume and bounding box."
+    },
+    "supportedOS": "windows|mac",
+    "editEnabled": true
+}
